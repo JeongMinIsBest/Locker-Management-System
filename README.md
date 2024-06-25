@@ -17,8 +17,14 @@
 ## 실행 방법
 
 ```gcc -o server server.c -lpthread```
+
+
 ```gcc -o client client.c```
+
+
 ```./server```
+
+
 ```./client```
 
 
