@@ -8,7 +8,7 @@ Through **network communication between clients and a server**, the system suppo
 
 👩‍💻 **Planning & Development**: Jeongmin Lim  
 
-🗓 **Development Period**: June 10, 2024 – June 17, 2024 (8 days)  
+🗓 **Development Period**: 2024 June 10 – 2024 June 17 (8 days)  
 
 📚 **Project Title**: Linux Programming Final Project (Spring 2024)
 <br/>
