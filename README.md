@@ -2,10 +2,9 @@
 A system that manages **locker usage in real time** based on access by multiple users. Through **network communication between clients and a server**, the system supports locker usage, password setup and modification, and secure unlocking.
 <br/>
 
-## ✏️ Project Overview
-👩‍💻 **Planning & Development**: Jeongmin Lim  
-🗓 **Development Period**: June 10, 2024 – June 17, 2024 (8 days)  
-📚 **Project Title**: Linux Programming Final Project (Spring 2024)
+## ✏️ Project Overview 
+- **Development Period**: June 10, 2024 – June 17, 2024 (8 days)  
+- **Project Title**: Linux Programming Final Project (Spring 2024)
 <br/>
 
 ## 🖱️ How to Run
